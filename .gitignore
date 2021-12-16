@@ -1,3 +1,23 @@
+.idea/
+.nyc_output/
+.DS_Store
+.env
+*.backup
+log/
+shared/coverage/
+*/cypress/screenshots/
+__pycache__
+
+.DS_Store
+/dist
+
+# local env files
+.env.local
+.env.*.local
+
+# Log files
+npm-debug.log*
 .gradle
-.idea
 out
+build
+gradle
