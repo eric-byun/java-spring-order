@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="hello.core.order.OrderServiceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-12-16T11:39:46" hostname="byeongyeong-yeon-ui-MacBookPro-2018.local" time="0.004">
+  <properties/>
+  <testcase name="createOrder()" classname="hello.core.order.OrderServiceTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
